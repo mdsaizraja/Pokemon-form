@@ -1,0 +1,82 @@
+.paper{
+   
+}
+.mainHeading{
+   
+    text-align: center;
+   margin: 40px 80px 0px 80px;
+    
+   
+   
+font: normal normal bold 32px/38px Roboto ;
+letter-spacing: 0px;
+color: #FE5454;
+opacity: 1;
+}
+.fullName{
+ margin: 10;
+
+}
+
+
+.heading3{
+    text-align: center;
+ margin: 15px 40px 0px 40px;
+font: normal normal bold 18px Roboto ;
+letter-spacing: 0px;
+color: #889296;
+opacity: 1;
+
+}
+.heading2{
+ text-align: center;
+ margin: 40px 80px 0px 80px;
+font: normal normal bold 18px Roboto ;
+letter-spacing: 0px;
+color: #889296;
+opacity: 1;
+}
+
+.p1{
+    text-align: left;
+font: normal normal normal 16px/19px Roboto;
+margin: 40px 80px 0px 80px;
+letter-spacing: 0.15px;
+
+opacity: 1;
+}
+
+.p2{
+    text-align: left;
+font: normal normal normal 16px/19px Roboto ;
+letter-spacing: 0.15px;
+color: #00000099;
+opacity: 1;
+}
+#addButton{
+    background: #FE5454 0% 0% no-repeat padding-box;
+box-shadow: 0px 4px 5px #00000033;
+opacity: 1;
+
+}
+.avatar{
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+border: 2px solid #FE5454;
+border-radius: 60px;
+opacity: 1;
+}
+#totalCost{
+    font: normal normal bold 18px/22px Roboto ;
+letter-spacing: 0px;
+color: #889296;
+opacity: 1;
+}
+
+
+#filled-basic{
+
+  
+}
+.textField__label{
+    color: #FE5454 !important;
+}
