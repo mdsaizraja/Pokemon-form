@@ -434,11 +434,11 @@ const Form = () => {
                         {
                             chips.map((chip) => {
                                 return (<>
-                                    <Grid container spacing={2}>
-                                        <Grid item xs={4}>
-                                            <p style={{ color: "#FE5454", opacity: "80%", margin: 0, direction: "row" }}> {chip.qty} {chip.item} </p>
-                                        </Grid>
-                                    </Grid>
+                                    
+                                     
+                                    <Chip style={{ margin: 3, backgroundColor: chip.state ? "#75F4FE" : "#DFDFDF" }} label={`${chip.qty} ${chip.item}`} ></Chip>
+                                
+                                   
                                 </>
                                 )
 
